@@ -1,3 +1,15 @@
 {
-  "description": "package.json is a config file, that is needed by CodeSandbox - the online editor you are probably looking at now :) We will learn about this file later. You do not need it in your projects files now."
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello NPM!\""
+  },
+  "author": "CodeRoad",
+  "license": "MIT",
+  "dependencies": {
+    "lodash-es": "^4.17.15"
+  }
 }
